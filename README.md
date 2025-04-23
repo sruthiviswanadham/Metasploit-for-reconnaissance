@@ -52,7 +52,8 @@ Find out the ip address of the attackers system
 ## OUTPUT:
 
 
-![Screenshot 2025-03-27 101111](https://github.com/user-attachments/assets/5b0fea40-1ec6-46d4-8ebc-4ed3546a7c54)
+![5 1nn](https://github.com/user-attachments/assets/8bd60223-d080-4265-8676-4c95724455c0)
+
 
 Before beginning, set up the Metasploit database by starting the PostgreSQL server and initialize msfconsole database as follows:
 
