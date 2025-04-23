@@ -24,32 +24,6 @@ Open terminal and try execute some kali linux commands
 
 Find out the ip address of the attackers system
 ## OUTPUT:
-# Metasploit-for-reconnaissance
-# Metasploit
-Metasploit for reconnaissance in pentesting
-
-# AIM:
-
-To get introduced to Metasploit Framework and to  perform reconnaissance  in pentesting .
-
-## DESIGN STEPS:
-
-### Step 1:
-
-Install kali linux either in partition or virtual box or in live mode
-
-### Step 2:
-
-Investigate on the various categories of tools as follows:
-
-### Step 3:
-
-Open terminal and try execute some kali linux commands
-
-## EXECUTION STEPS AND ITS OUTPUT:
-
-Find out the ip address of the attackers system
-## OUTPUT:
 
 
 ![5 1nn](https://github.com/user-attachments/assets/8bd60223-d080-4265-8676-4c95724455c0)
